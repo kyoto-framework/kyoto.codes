@@ -29,7 +29,7 @@ WORKDIR /docs
 # Copy build
 COPY --from=build /build/docs/.vitepress/dist .
 # Copy statics
-COPY --from=build /build/docs/static .
+COPY --from=build /build/docs/static ./static
 
 # Run
 CMD ["caddy", "file-server", "--listen", ":80", "--root", "/docs"]
