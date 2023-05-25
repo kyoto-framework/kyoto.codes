@@ -1,0 +1,18 @@
+/* :root {
+    --vp-c-brand-darker: hsl(346, 97%, 34%);
+    --vp-c-brand-dark: hsl(346, 97%, 39%);
+    --vp-c-brand: hsl(346, 97%, 44%);
+    --vp-c-brand-light: hsl(346, 97%, 49%);
+    --vp-c-brand-lighter: hsl(346, 97%, 54%);
+} */
+
+:root {
+    --vp-home-hero-name-color: hsl(346, 97%, 44%);
+    --vp-button-brand-bg: hsl(346, 97%, 59%);
+
+    --vp-c-brand-darker: hsl(346, 97%, 54%);
+    --vp-c-brand-dark: hsl(346, 97%, 59%);
+    --vp-c-brand: hsl(346, 97%, 64%);
+    --vp-c-brand-light: hsl(346, 97%, 69%);
+    --vp-c-brand-lighter: hsl(346, 97%, 74%);
+}
