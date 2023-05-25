@@ -7,7 +7,7 @@ hero:
   text: Frontend with Go
   tagline: Set of libraries and tools to create asynchronous frontends with Go
   image:
-    src: /static/logo.svg
+    src: /static/img/logo.svg
     alt: Kyoto Framework
   actions:
     - theme: brand
@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon: 
-      src: /static/features/kyoto.svg
+      src: /static/img/features/kyoto.svg
       width: 35
       height: 35
     title: Kyoto
@@ -27,7 +27,7 @@ features:
     link: /
     linkText: Get started
   - icon: 
-      src: /static/features/zen.svg
+      src: /static/img/features/zen.svg
       width: 35
       height: 35
     title: Zen
@@ -35,7 +35,7 @@ features:
     link: /zen/
     linkText: Get started
   - icon:
-      src: /static/features/missing.svg
+      src: /static/img/features/missing.svg
       height: 35
     title: Missing features?
     details: You need something that missing here? 

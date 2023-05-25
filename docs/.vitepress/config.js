@@ -5,7 +5,7 @@ export default defineConfig({
   description: 'Just playing around',
 
   themeConfig: {
-    logo: '/static/logo.svg',
+    logo: '/static/img/logo.svg',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/kyoto-framework' },
     ],
